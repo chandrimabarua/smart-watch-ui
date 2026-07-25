@@ -2,6 +2,10 @@
 
 A modern Smart Watch interface inspired by real wearable devices.
 
+............
+Live Demo
+https://chandrimabarua.github.io/smart-watch-ui/
+
 ## ✨ Features
 
 - 🕒 Live Digital Clock
